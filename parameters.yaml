@@ -1,0 +1,19 @@
+# Tipo de agendamento
+request_type: "passport"  # ou "citizenship"
+
+# Dados pessoais
+full_name: "Seu Nome Completo"
+full_address: "Rua Exemplo, 123, Apartamento 456, São Paulo, SP 01234-567, Brasil"
+
+# Respostas do formulário de passaporte
+# Você possui passaporte expirado?
+possess_expired_passport: "Não"
+
+# Total de filhos
+total_children: "0"
+
+# Estado civil
+marital_status: "Solteiro"  # Solteiro, Casado, Divorciado, Viúvo
+
+# Consulado alvo
+consulate: "São Paulo"  # São Paulo, Rio de Janeiro, Brasília, Curitiba, etc.
